@@ -11,7 +11,7 @@
 ##
 ##USAGE: show is one of the following: "atc", "me" "wesat", "wesun" for 
 ##            All things Considered, Morning Edition, Weekend Edition Saturday, Weekend Edition Sunday, respectively
-##       date is either "today", or a date in the format "YYYY-mm-dd" (today-10)
+##       date is either "today", or a date in the format "YYYY-mm-dd" (possible range is today-10 days)
 ##       directory is the path to the directory (folder) where you want the downloaded files to be stored 
 ##                 ex: "/home/myName/Documents/podcasts/"
          
