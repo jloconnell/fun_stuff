@@ -5,8 +5,8 @@
 ##   3) change the working directory again to the created show folder 
 ##   3) download the show files into the created show folder
 ##   4) rename the files to sort properly and remove bad charaters from the file names, 
-     5) delete folders in the show directory older than 2 wks 
-         (eg, only removes files in the created show folder, not files from elsewhere), and
+##     5) delete folders in the show directory older than 2 wks 
+##         (eg, only removes files in the created show folder, not files from elsewhere), and
 ##   6) resets your working directory back to what it was before you called this function
 ##
 ##USAGE: show is one of the following: "atc", "me" "wesat", "wesun" for 
